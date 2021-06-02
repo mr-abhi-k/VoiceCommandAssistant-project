@@ -3,7 +3,7 @@ const startBtn = document.createElement("button");
 startBtn.innerHTML = "Start listening";
 const result = document.createElement("div");
 const processing = document.createElement("p");
-document.write("<body><h1>My Siri</h1><p>Give it a try with 'hello', 'how are you', 'what's your name', 'what time is it', 'stop', ... </p></body>");
+document.write("<body><h1>Your Voice Assistant : 'Eryx' </h1><p>Give it a try with 'hello', 'how are you', 'what's your name', 'what time is it', 'stop', ... </p></body>");
 document.body.append(startBtn);
 document.body.append(result);
 document.body.append(processing);
